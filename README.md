@@ -1,6 +1,6 @@
 ### Hi there, I'm Pavan 👋
 
-A CSE Undergrad @BITS Pilani Hyderabad. I am currently a Data Science Research Intern @Epsilon.
+A CSE Undergrad @BITS Pilani Hyderabad and a Data Science Research Intern @Epsilon.
 
 - 🔭 I’m currently working on Natural Language Processing and Multimodal Federated Learning.
 - 🌱 I’m currently learning Natural Language Generation using Transformers and Multimodal Contrastive Learning.

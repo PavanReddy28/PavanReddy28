@@ -13,7 +13,7 @@ A CSE Undergrad @BITS Pilani Hyderabad and a Data Science Research Intern @Epsil
 </a>
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanReddy28&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanReddy28&hide_border=true)
 
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=PavanReddy28&show_icons=true&hide_border=true)
 

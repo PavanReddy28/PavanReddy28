@@ -12,7 +12,7 @@ I am Pavan Kumar Reddy Yannam, a CSE Undergrad @BITS Pilani Hyderabad. I am curr
 - 📫 How to reach me:
   **[LinkedIN](https://in.linkedin.com/in/pavan-kumar-reddy-yannam), [Email](ypavan2802@gmail.com)**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanReddy28&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanReddy28&hide_border=true)
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=PavanReddy28&show_icons=true&hide_border=true)
 
 <!-- 

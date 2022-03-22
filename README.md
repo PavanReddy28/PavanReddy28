@@ -1,18 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Pavan 👋
 
-<!--
-**PavanReddy28/PavanReddy28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://in.linkedin.com/in/pavan-kumar-reddy-yannam">
+  <img align="left" alt="Pavan | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+I am Pavan Kumar Reddy Yannam, a CSE Undergrad @BITS Pilani Hyderabad. I am currently a Data Science Research Intern @Epsilon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Natural Language Processing and Multimodal Federated Learning.
+- 🌱 I’m currently learning Natural Language Generation using Transformers and Multimodal Contrastive Learning.
+- 👯 I’m looking to collaborate on Multimodal Machine Learning and Federated Learning Projects.
+- 📫 How to reach me:
+  **[LinkedIN](https://in.linkedin.com/in/pavan-kumar-reddy-yannam), [Email](ypavan2802@gmail.com)**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanReddy28&layout=compact&hide_border=true)
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=PavanReddy28&show_icons=true&hide_border=true)
+
+<!-- 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=PavanReddy28&show_icons=true&hide_border=true)
+ -->

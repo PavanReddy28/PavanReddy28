@@ -3,8 +3,8 @@
 <a href="https://in.linkedin.com/in/pavan-kumar-reddy-yannam">
   <img align="left" alt="Pavan | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-I am Pavan Kumar Reddy Yannam, a CSE Undergrad @BITS Pilani Hyderabad. I am currently a Data Science Research Intern @Epsilon.
+</br>
+A CSE Undergrad @BITS Pilani Hyderabad. I am currently a Data Science Research Intern @Epsilon.
 
 - 🔭 I’m currently working on Natural Language Processing and Multimodal Federated Learning.
 - 🌱 I’m currently learning Natural Language Generation using Transformers and Multimodal Contrastive Learning.

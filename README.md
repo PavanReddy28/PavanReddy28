@@ -1,9 +1,5 @@
 ### Hi there, I'm Pavan 👋
 
-<a href="https://in.linkedin.com/in/pavan-kumar-reddy-yannam">
-  <img align="left" alt="Pavan | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-</br>
 A CSE Undergrad @BITS Pilani Hyderabad. I am currently a Data Science Research Intern @Epsilon.
 
 - 🔭 I’m currently working on Natural Language Processing and Multimodal Federated Learning.
@@ -11,6 +7,11 @@ A CSE Undergrad @BITS Pilani Hyderabad. I am currently a Data Science Research I
 - 👯 I’m looking to collaborate on Multimodal Machine Learning and Federated Learning Projects.
 - 📫 How to reach me:
   **[LinkedIN](https://in.linkedin.com/in/pavan-kumar-reddy-yannam), [Email](ypavan2802@gmail.com)**
+  
+<a href="https://in.linkedin.com/in/pavan-kumar-reddy-yannam">
+  <img align="left" alt="Pavan | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanReddy28&layout=compact&hide_border=true)
 

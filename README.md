@@ -2,8 +2,8 @@
 
 CSE Undergrad @BITS Pilani Hyderabad and Data Science Research Intern @Epsilon.
 
-- 🔭 I’m currently working on Natural Language Processing and Multimodal Federated Learning.
-- 🌱 I’m currently learning Natural Language Generation using Transformers and Multimodal Contrastive Learning.
+- 🔭 I’m currently working on Multimodal Federated Learning and Natural Language Processing.
+- 🌱 I’m currently learning Multimodal Contrastive Learning and Natural Language Generation using Transformers.
 - 👯 I’m looking to collaborate on Multimodal Machine Learning and Federated Learning Projects.
 - Let's connect via LinkedIN. <a href="https://in.linkedin.com/in/pavan-kumar-reddy-yannam"> <img align="left" alt="Pavan | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a> 
 </br>

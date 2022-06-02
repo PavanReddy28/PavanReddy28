@@ -1,6 +1,6 @@
 ### Hi there, I'm Pavan 👋
 
-CSE Undergrad @BITS Pilani Hyderabad and Data Science Research Intern @Epsilon.
+CSE Undergrad @BITS Pilani Hyderabad, Extreme Blue Intern @IBM (Cloud Computing and DevOps) and Data Science Research Intern @Epsilon.
 
 - 🔭 I’m currently working on Multimodal Federated Learning and Cloud Computing.
 - 🌱 I’m currently learning Multimodal Contrastive Learning and DevOps skills.

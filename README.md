@@ -1,6 +1,6 @@
 ### Hi there, I'm Pavan 👋
 
-CSE Undergrad @BITS Pilani Hyderabad, Extreme Blue Intern @IBM (Cloud Computing and DevOps), Incoming SDE Intern @ Amazon UK and Ex-Data Science Research Intern @Epsilon.
+CSE Undergrad @BITS Pilani Hyderabad, Extreme Blue Intern @IBM (Cloud Computing, APIs, Frontend (IBM Carbon Design) and DevOps), Incoming SDE Intern @ Amazon UK and Ex-Data Science Research Intern @Epsilon.
 
 - I’m currently working on Multimodal Federated Learning and Cloud Computing.
 - I’m currently learning Multimodal Contrastive Learning and DevOps skills.
